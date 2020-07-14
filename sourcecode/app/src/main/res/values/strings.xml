@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Player by Knox Xiao</string>
+    <string name="progress_text">%d:%02d&#160;</string>
+    <string name="progress_text_all">/ %d:%02d</string>
+</resources>
