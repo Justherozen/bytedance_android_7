@@ -69,4 +69,13 @@
         app:layout_constraintStart_toEndOf="@+id/buttonPause"
         app:layout_constraintTop_toTopOf="@+id/buttonPause" />
 
+    <Button
+        android:id="@+id/buttonswitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Switch Screen"
+        app:layout_constraintStart_toStartOf="@+id/buttonPlay"
+        app:layout_constraintTop_toBottomOf="@+id/buttonPlay" />
+
 </android.support.constraint.ConstraintLayout>

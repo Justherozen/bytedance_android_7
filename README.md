@@ -18,3 +18,13 @@ homework 7 of the camp
 
 
 <img src="README.assets/image-20200715045620246.png" alt="image-20200715045620246" style="zoom:33%;" />
+
+7 15 
+
+添加了横竖屏播放切换功能
+
+<img src="README.assets/4675A05A6107CCEB1D92DC3074A09CB4.jpg" alt="img" style="zoom:33%;" />
+
+
+
+<img src="README.assets/DD67E78A362BA817A38C721189D2C495.jpg" alt="img" style="zoom:33%;" />
